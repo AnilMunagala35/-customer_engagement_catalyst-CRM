@@ -1,13 +1,17 @@
 
 # ✨ Customer Engagement Catalyst (CEC) ✨
 
-![Project Logo Placeholder](#)
+![Project Logo](https://i.postimg.cc/Y9KLVq7F/logo-png.png)
 
 ## 📄 Introduction
 
-**Customer Engagement Catalyst (CEC)** is a powerful CRM solution designed to bridge the gap between businesses and their customers by streamlining interactions, centralizing data, and automating processes. By offering a centralized platform for managing customer relationships, CEC enhances customer satisfaction, increases retention, and empowers businesses to deliver personalized experiences.
+**Customer Engagement Catalyst (CEC)** is a comprehensive Customer Relationship Management (CRM) platform designed to help businesses effectively manage and enhance customer interactions. By centralizing customer data, automating workflows, and offering personalized services, CEC enables organizations to improve customer satisfaction and retention.
 
-Deployed live on AWS: [Customer Engagement Catalyst (Frontend)](http://crm-frontend.s3-website.eu-north-1.amazonaws.com/)
+The platform supports various modules tailored to customers, admins, and super admins, allowing streamlined management of tickets, orders, profiles, and feedback. CEC acts as a bridge between businesses and their customers, fostering stronger relationships and delivering a seamless experience across all touchpoints.
+
+Deployed on AWS, the application integrates cutting-edge technologies like Angular, ASP.NET Core Web API, and MSSQL Server to deliver a robust, scalable, and responsive solution for modern business needs.
+
+Deployed live on AWS: [Customer Engagement Catalyst](http://crm-frontend.s3-website.eu-north-1.amazonaws.com/)
 
 ---
 
@@ -17,6 +21,9 @@ Businesses often struggle with:
 - 🔸 Fragmented customer data.
 - 🔸 Inefficient processes and lack of automation.
 - 🔸 Missed opportunities for personalized communication.
+- 🔸 Lack of Priority.
+- 🔸 Low user Experience.
+
 
 CEC addresses these challenges by providing a holistic CRM platform that connects packages and people, improving engagement across all customer touchpoints.
 
@@ -115,8 +122,10 @@ With CEC, businesses can:
 
 ## 🖼 Screenshots and Visualizations
 
-![Admin Dashboard Screenshot Placeholder](#)  
-![Customer Home Page Screenshot Placeholder](#)  
+![Landing page](https://i.postimg.cc/6Q0NVhTb/IMG-20241230-WA0017.jpg)  
+![User Home page](https://i.postimg.cc/k5705twQ/IMG-20241230-WA0018.jpg)
+![Admin Home Page](https://i.postimg.cc/k44LQ30D/IMG-20241230-WA0020.jpg)
+![Super Admin](https://i.postimg.cc/wxtjzS16/IMG-20241230-WA0019.jpg)  
 
 Screenshots of the application’s modules and features will give an idea of its functionality and user interface.
 
@@ -161,3 +170,12 @@ For further information, reach out to:
 [GitHub Profile](https://github.com/AnujaMithinti) 
 
 ---
+
+## 🔒 Copyright
+
+© 2024 **Team Code Red 💻**. All rights reserved.
+
+This project, **Customer Engagement Catalyst (CEC)**, is licensed under the **MIT License**. You are free to use, modify, and distribute this project under the terms of the license.  
+
+Unauthorized reproduction, distribution, or use of this software outside the terms of the license is strictly prohibited.
+
